@@ -1,7 +1,7 @@
 ---
 presenters:
   - name:
-      en: My Name # required
+      en: KOIWA hidekazu # required
       ja: # optional
     github: Your github account # required
     affiliation:
