@@ -1,32 +1,31 @@
 ---
 presenters:
   - name:
-      en: KOIWA hidekazu # required
-      ja: # optional
-    github: Your github account # required
+      en: KOIWA hidekazu
+      ja: 小岩秀和
+    github: koiwa
     affiliation:
-      en: My Affiliation # required
-      ja: # optional
+      en: ESTCOSMO Co., Ltd., LOCAL, 88nite
+      ja: 株式会社エストコスモ、一般社団法人LOCAL、88nite
     bio:
-      en: My bio # required
-      ja: # optional
+      en: Free Software User
+      ja: ただのフリーソフトウェア利用者
 title:
-  en: |- # required
-    My Talk Title
+  en: |-
+    Why LOCAL?
   ja: # optional
 abstract: # write in markdown
-  en: |- # required
-    My Talk Abstract
-  ja: # optional
-language: Japanese # required
-references: # optional
-  en: |- # write in markdown
-    - [My website](http://www.example.org)
-    - [My twitter](https://twitter.com/#!/twitter_handle)
-    - [Past talk slides](https://www.example.org)
-    - [Past talk video](http://www.example.org)
-  ja: |- # write in markdown
-    - [My website](http://www.example.org)
-    - [My twitter](https://twitter.com/#!/twitter_handle)
-    - [Past talk slides](https://www.example.org)
-    - [Past talk video](http://www.example.org)
+  en: |-
+    Introduce activities of LOCAL. It talks about FreeSoftware and a local community 
+  ja: |-
+    一般社団法人LOCALの活動の紹介を通して、地域コミュニティとフリーソフトウェアについてお話したいと思います。
+language: Japanese
+references:
+  en: |- 
+    - [My blog](http://www.ha.hameda.org/hide/blog/)
+    - [My twitter](https://twitter.com/#!/koiwa)
+    - [about me](http://about.me/koiwa)
+  ja: |-
+    - [My blog](http://www.ha.hameda.org/hide/blog/)
+    - [My twitter](https://twitter.com/#!/koiwa)
+    - [about me](http://about.me/koiwa)
