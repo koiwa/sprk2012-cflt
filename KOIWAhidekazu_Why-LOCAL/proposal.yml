@@ -16,9 +16,9 @@ title:
   ja: # optional
 abstract: # write in markdown
   en: |-
-    Introduce activities of LOCAL. It talks about FreeSoftware and a local community 
+    Introduce activities of LOCAL. It talks about FreeSoftware and a local IT engineer, a local community 
   ja: |-
-    一般社団法人LOCALの活動の紹介を通して、地域コミュニティとフリーソフトウェアについてお話したいと思います。
+    一般社団法人LOCALの活動の紹介を通して、地方のIT技術者やコミュニティとフリーソフトウェアについてお話したいと思います。
 language: Japanese
 references:
   en: |- 
